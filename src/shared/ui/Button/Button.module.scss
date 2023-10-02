@@ -1,0 +1,41 @@
+.Button {
+    font-size: 18px;
+    border-radius: 14px;
+    padding: 7px 15px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.large {
+    height: 40px;
+    width: 125px;
+
+    @media screen and (max-width: 550px) {
+        width: 90px;
+    }
+}
+
+.small {
+    width: auto;
+    height: auto;
+}
+
+.orange {
+    background-color: #f48225;
+    color: white;
+
+    &:hover {
+        background-color: #da680b;
+    }
+}
+
+.transparent {
+    background-color: transparent;
+    border: 1px solid #f48225;
+    color: black;
+
+    &:hover {
+        background-color: hsl(27,95%,90%);
+    }
+}

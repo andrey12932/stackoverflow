@@ -1,0 +1,16 @@
+.header {
+    display: grid;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    width: 100vw;
+    height: 52px;
+    align-items: center;
+    padding: 0 30px;
+    border-bottom: 1px solid hsl(210,8%,85%);
+    background-color: #fff;
+    
+    &__logo {
+        height: 30px;
+    }
+}

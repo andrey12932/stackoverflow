@@ -1,0 +1,16 @@
+.Answers {
+    max-width: 1000px;
+    justify-self: center;
+
+    & p {
+        margin-bottom: 15px;
+    }
+
+    & li {
+        margin-bottom: 7px;
+    }
+}
+
+.header {
+    margin-bottom: 15px;
+}

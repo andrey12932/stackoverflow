@@ -1,0 +1,16 @@
+.SearchPage {
+    position: relative;
+    display: grid;
+    top: 52px;
+    align-content: start;
+    padding: 15px 0;
+    row-gap: 10px;
+    min-height: calc(100vh - 100px);
+    margin: 0 15px;
+
+    &-top {
+        display: grid;
+        grid-auto-flow: column;
+        justify-content: space-between;
+    }
+}

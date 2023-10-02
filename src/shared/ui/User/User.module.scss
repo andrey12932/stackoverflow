@@ -1,0 +1,12 @@
+.avatar {
+    width: 35px;
+    border-radius: 50%;
+}
+
+.user {
+    display: grid;
+    align-items: center;
+    grid-auto-flow: column;
+    justify-content: start;
+    column-gap: 10px;
+}

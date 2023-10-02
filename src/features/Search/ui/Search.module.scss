@@ -1,0 +1,11 @@
+.Search {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    row-gap: 12px;
+}
+
+.horizontal {
+    grid-auto-flow: column;
+    column-gap: 10px;
+}
