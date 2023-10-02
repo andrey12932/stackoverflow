@@ -1,0 +1,24 @@
+.L8CKii9v{display:grid;justify-content:center;align-items:center;width:98vw;min-height:100vh}
+.Cvt9djRE{animation:uCL1MoYI 1s infinite;height:50px;width:50px}.Cvt9djRE:before,.Cvt9djRE:after{border-radius:50%;content:"";display:block;height:20px;width:20px}.Cvt9djRE:before{animation:jZJXzrhY 1s infinite;background-color:#aaa;box-shadow:30px 0 0 #ff3d00;margin-bottom:10px}.Cvt9djRE:after{animation:bcNsKULD 1s infinite;background-color:#ff3d00;box-shadow:30px 0 0 #aaa}@keyframes uCL1MoYI{0%{transform:rotate(0deg) scale(0.8)}50%{transform:rotate(360deg) scale(1.2)}100%{transform:rotate(720deg) scale(0.8)}}@keyframes jZJXzrhY{0%{box-shadow:30px 0 0 #ff3d00}50%{box-shadow:0 0 0 #ff3d00;margin-bottom:0;transform:translate(15px, 15px)}100%{box-shadow:30px 0 0 #ff3d00;margin-bottom:10px}}@keyframes bcNsKULD{0%{box-shadow:30px 0 0 #aaa}50%{box-shadow:0 0 0 #aaa;margin-top:-20px;transform:translate(15px, 15px)}100%{box-shadow:30px 0 0 #aaa;margin-top:0}}
+.a4nOaSMD{font-size:18px;border-radius:14px;padding:7px 15px;border:none;cursor:pointer;transition:background-color .3s}.FaYzhg58{height:40px;width:125px}@media screen and (max-width: 550px){.FaYzhg58{width:90px}}.DfqBbZ1X{width:auto;height:auto}.oy9QJSqy{background-color:#f48225;color:#fff}.oy9QJSqy:hover{background-color:#da680b}.U_jpxp3C{background-color:rgba(0,0,0,0);border:1px solid #f48225;color:#000}.U_jpxp3C:hover{background-color:#fee3cd}
+.ovZf8Ow7{height:40px;width:300px;border-radius:14px;outline:none;border:1px solid #838c95;padding-left:35px}@media screen and (max-width: 700px){.ovZf8Ow7{width:150px}}@media screen and (max-width: 550px){.ovZf8Ow7{width:90px}}.HZOOMtRM{position:absolute;left:12px;top:10px;fill:#838c95}.laNzwhg7{position:relative}
+.K2nycnQH{padding:5px;color:#fff;border-radius:4px;background-color:#5eba7d;transition:background-color .3s;cursor:pointer;width:fit-content;height:fit-content;border:none}.K2nycnQH:hover{background-color:#48a868}
+.wCiZkNIi{width:35px;border-radius:50%}.mIu8snOF{display:grid;align-items:center;grid-auto-flow:column;justify-content:start;column-gap:10px}
+.g41BiwqO{display:grid;position:fixed;z-index:10;top:0;width:100vw;height:52px;align-items:center;padding:0 30px;border-bottom:1px solid #d6d9dc;background-color:#fff}.kW0hC277{height:30px}
+.lUzs5o74{display:grid;border:1px solid #f1e5bc;grid-auto-flow:row;max-width:1100px;background-color:#fdf7e2}.jCNaO6Tx{border-bottom:1px solid #f1e5bc;background-color:#fbf3d5}.s126XDKU{display:grid;grid-auto-flow:column;grid-template-columns:1fr 2fr 1fr 2fr}.Lu5eDq6B{padding:5px}.WLiCgQhN{justify-self:center;margin:15px}.MHLkpJJS{margin:20px}
+.X69utk_B{display:grid;grid-template-columns:1fr 2fr 1fr 2fr;padding:5px;margin:10px;background-color:rgba(0,0,0,0);transition:background-color .3s;border-radius:10px;align-items:center;cursor:pointer}.X69utk_B:hover{background-color:#fbf3d5}.glPQQOVh{color:#000;text-decoration:none}.z92JiqIC{padding:5px}.TCqrFEVO{display:flex;flex-wrap:wrap;row-gap:4px;column-gap:8px}
+*{box-sizing:border-box;padding:0;margin:0;font-family:sans-serif}pre{background-color:#f6f6f6;margin-bottom:20px;padding:12px;border-radius:6px}pre *{white-space:break-spaces;font-family:ui-monospace,"Cascadia Code Regular","Segoe UI Mono","Liberation Mono",Menlo,Monaco,Consolas,monospace}
+pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}/*!
+  Theme: StackOverflow Light
+  Description: Light theme as used on stackoverflow.com
+  Author: stackoverflow.com
+  Maintainer: @Hirse
+  Website: https://github.com/StackExchange/Stacks
+  License: MIT
+  Updated: 2021-05-15
+
+  Updated for @stackoverflow/stacks v0.64.0
+  Code Blocks: /blob/v0.64.0/lib/css/components/_stacks-code-blocks.less
+  Colors: /blob/v0.64.0/lib/css/exports/_stacks-constants-colors.less
+*/.hljs{color:#2f3337;background:#f6f6f6}.hljs-subst{color:#2f3337}.hljs-comment{color:#656e77}.hljs-attr,.hljs-doctag,.hljs-keyword,.hljs-meta .hljs-keyword,.hljs-section,.hljs-selector-tag{color:#015692}.hljs-attribute{color:#803378}.hljs-name,.hljs-number,.hljs-quote,.hljs-selector-id,.hljs-template-tag,.hljs-type{color:#b75501}.hljs-selector-class{color:#015692}.hljs-link,.hljs-regexp,.hljs-selector-attr,.hljs-string,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#54790d}.hljs-meta,.hljs-selector-pseudo{color:#015692}.hljs-built_in,.hljs-literal,.hljs-title{color:#b75501}.hljs-bullet,.hljs-code{color:#535a60}.hljs-meta .hljs-string{color:#54790d}.hljs-deletion{color:#c02d2e}.hljs-addition{color:#2f6f44}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}
+@font-face{font-family:"Cascadia Code Regular";font-style:normal;font-weight:normal;src:local("Cascadia Code Regular"),url(../4e807dd8e4d9a5561148.woff) format("woff")}
